@@ -1,0 +1,25 @@
+```gitignore
+# Virtual Environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite
+*.db
+```
